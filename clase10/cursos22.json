@@ -1,0 +1,26 @@
+{
+  "cursos": [
+    {
+      "nombre_curso": "Front end developer",
+      "habilidades_del_profesional": "Un Front end Developer se encarga de programar el navegador de una web, el encargado de traducir las definiciones de diseño y estilo visual realizadas en etapas previas a códigos HTML semántico. Es una de las piezas fundamentales en un proyecto digital. Aunque normalmente a un Front end Developer se le asocien principios de diseño y de estructura de páginas web, como buen programador que es debe ser consciente que su trabajo se realizará en el lado cliente, en muchos casos en el navegador. Pero aún así, esta persona ha de tener conocimientos y tener en cuenta la usabilidad, legibilidad de la web o app, el diseño y la estructura de páginas web y aplicaciones para procurar que el usuario pueda tener una experiencia de 10.",
+      "contenido": "En la plataforma contarán con clases grabadas, material de lectura y ejercicios prácticos.",
+      "duración": 80,
+      "valor": "ARS 92000"
+    },
+    {
+      "nombre_curso": "Back end developer",
+      "habilidades_del_profesional": "Un desarrollador Back end Developer se ocupa de la arquitectura interna de una web o aplicación móvil que soporta la interfaz de usuario y la operatividad de la solución en general. El desarrollador backend es el responsable de la programación de un sitio en todos sus componentes funcionales.",
+      "contenido": "En la plataforma contarán con clases grabadas, material de lectura y ejercicios prácticos.",
+      "duración": 80,
+      "valor": "ARS 92000"
+    },
+    {
+      "nombre_curso": "UX/UI developer",
+      "habilidades_del_profesional": "Los diseñadores UX y UI no son lo mismo. Ambos están detrás de tu navegación para que sea lo más fluida posible. Ambos perfiles se encargan del diseño, pero presentan diferencias: los UI construyen la arquitectura con la que interactúa el usuario, mientras los UX atienden a las sensaciones del usuario mientras navega por ella. El UI developer realiza un mapa que permite ubicar al usuario en el portal donde se encuentre y localizar fácilmente el punto con el que debe interactuar para llegar al lugar donde desea acceder. Mientras que el UX developer es el encargado de la experiencia del usuario siendo el objeto de los profesionales especializados en esta área: son los que tienen en mente el buyer persona, sus aspiraciones y la imagen que la marca desea transmitir.",
+      "contenido": "En la plataforma contarán con clases grabadas, material de lectura y ejercicios prácticos.",
+      "duración": 60,
+      "valor": "ARS 80000"
+    }
+  ]
+}
+
